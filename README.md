@@ -1,7 +1,8 @@
-# Bustle-copy
+# Bustle-copy by Meaghan and Stephanie (June 2016)
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Bustle is a news site written with Ember.js. For this project we constructed a clone of Bustle by rebuilding some of the site's main features. We focused primarily on construction and functionality.
+
+Users should be able to click on a headline or photo to view the full story.
 
 ## Prerequisites
 
@@ -50,4 +51,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
